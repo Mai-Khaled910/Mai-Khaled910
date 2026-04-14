@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Mai-Khaled910/Mai-Khaled910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mai Khaled 👋
+A computer Science Student passinote about learning and building logical solutions .
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+- Computer Science Student
+- Interested in problem solving & algorithms
+- passinote about learning & building 
+- love turning ideas into simple projects
+
+
+
+
+
+## 🛠 Skills
+Languages & Tools:
+- C++
+- JavaScript
+- SQL
+- Core concepts: OOP, Data Structures, Algorithms
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on projects with c++ 
+
+📫 How to reach me LinkedIn or Via Email
+maikhaled593@gmail.Com
+
